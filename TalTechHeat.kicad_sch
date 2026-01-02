@@ -11346,7 +11346,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" ""
+		(property "S1PN" "https://www.tme.eu/en/details/xt30pw-f/dc-power-connectors/amass/"
 			(at 144.78 209.55 0)
 			(effects
 				(font
@@ -11373,7 +11373,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFN" ""
+		(property "MFN" "AMASS"
 			(at 144.78 209.55 0)
 			(effects
 				(font
@@ -11382,7 +11382,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "XT30PW-F"
 			(at 144.78 209.55 0)
 			(effects
 				(font
