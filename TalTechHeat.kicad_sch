@@ -10904,7 +10904,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFN" "TE Connectivity / P&B"
+		(property "MFN" "Same Sky"
 			(at 256.54 261.62 90)
 			(effects
 				(font
@@ -10913,7 +10913,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " 2-1437565-8 "
+		(property "MPN" " TS02-66-50-BK-100-LCR-D "
 			(at 256.54 261.62 90)
 			(effects
 				(font
@@ -10922,8 +10922,26 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/TE-Connectivity-PB/2-1437565-8?qs=%2FwXgF%2FfIho9gWJ5kkeMo7w%3D%3D"
+		(property "S1PN" "https://www.mouser.ee/ProductDetail/Same-Sky/TS02-66-50-BK-100-LCR-D?qs=A6eO%252BMLsxmQ2%2FFf8jET%252BrA%3D%3D"
 			(at 256.54 261.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "S1PL" ""
+			(at 256.54 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "S1SN" ""
+			(at 256.54 261.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20321,7 +20339,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFN" "TE Connectivity / P&B"
+		(property "MFN" "Same Sky"
 			(at 218.44 261.62 90)
 			(effects
 				(font
@@ -20330,7 +20348,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " 2-1437565-8 "
+		(property "MPN" " TS02-66-50-BK-100-LCR-D "
 			(at 218.44 261.62 90)
 			(effects
 				(font
@@ -20339,7 +20357,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/TE-Connectivity-PB/2-1437565-8?qs=%2FwXgF%2FfIho9gWJ5kkeMo7w%3D%3D"
+		(property "S1PN" "https://www.mouser.ee/ProductDetail/Same-Sky/TS02-66-50-BK-100-LCR-D?qs=A6eO%252BMLsxmQ2%2FFf8jET%252BrA%3D%3D"
 			(at 218.44 261.62 90)
 			(effects
 				(font

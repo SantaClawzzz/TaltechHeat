@@ -48,11 +48,42 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2
+          "min_clearance": 0.3
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|187455966|95075000|a345a317-8e4b-4d6d-b9be-784fa6fcfd67|00000000-0000-0000-0000-000000000000",
+          "Moved first pin silckscreen"
+        ],
+        [
+          "lib_footprint_mismatch|203562500|91500000|acbc9bc6-bfcd-4b09-8939-863b6c03c28f|00000000-0000-0000-0000-000000000000",
+          "Pins differ from usual SOT-23 package, changed to fit datasheet"
+        ],
+        [
+          "lib_footprint_mismatch|214575000|107025000|3ee88dc4-f69b-4324-9afb-0b1b39b7d18c|00000000-0000-0000-0000-000000000000",
+          "Moved first pin des."
+        ],
+        [
+          "lib_footprint_mismatch|221650000|86500000|b6588a05-f480-4c7b-95e1-30a66dcc3ea5|00000000-0000-0000-0000-000000000000",
+          "Silkscreen removed"
+        ],
+        [
+          "starved_thermal|175275000|105512500|c38519b3-df23-4189-8143-492a2839d87c|d3ead42f-f29f-41a2-bdf9-5b82943b5e81|F.Cu",
+          "Second spoke with trace"
+        ],
+        [
+          "starved_thermal|193900000|91980000|c38519b3-df23-4189-8143-492a2839d87c|aae9f169-76bc-4088-80f2-1c78a44cb398|B.Cu",
+          "Second spoke with trace"
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -180,7 +211,10 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.4
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -207,7 +241,16 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        },
+        {
+          "diameter": 0.7,
+          "drill": 0.4
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
