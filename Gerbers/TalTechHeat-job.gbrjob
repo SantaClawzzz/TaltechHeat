@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "9.0.6-unknown-202512120022~866d92e1f6~ubuntu24.04.1"
     },
-    "CreationDate": "2026-01-05T08:58:26+02:00"
+    "CreationDate": "2026-01-05T09:17:53+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "TalTechHeat",
       "GUID": "54616c54-6563-4684-9865-61742e6b6963",
-      "Revision": "rev?"
+      "Revision": "1.2"
     },
     "Size": {
       "X": 100.2,
