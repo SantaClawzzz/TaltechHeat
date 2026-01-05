@@ -20969,7 +20969,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d71ea5f0-b903-4e7a-bdca-d0b398d4e932")
 		(property "Reference" "#PWR03"
 			(at 100.33 38.1 0)
@@ -20980,12 +20979,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+24V_D"
-			(at 100.33 29.21 0)
+		(property "Value" "+20V_D"
+			(at 96.52 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
