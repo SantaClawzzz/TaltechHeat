@@ -622,8 +622,8 @@
         },
         {
           "group_by": false,
-          "label": "S1PN",
-          "name": "S1PN",
+          "label": "Mouser_PN",
+          "name": "Mouser_PN",
           "show": true
         },
         {
@@ -667,14 +667,20 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "S1PN",
+          "name": "S1PN",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Value"
+      "sort_asc": false,
+      "sort_field": "Mouser_PN"
     },
     "connection_grid_size": 50.0,
     "drawing": {

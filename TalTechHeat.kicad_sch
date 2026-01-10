@@ -10930,15 +10930,6 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Same-Sky/TS02-66-50-BK-100-LCR-D?qs=A6eO%252BMLsxmQ2%2FFf8jET%252BrA%3D%3D"
-			(at 256.54 261.62 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "S1PL" ""
 			(at 256.54 261.62 0)
 			(effects
@@ -10950,6 +10941,15 @@
 		)
 		(property "S1SN" ""
 			(at 256.54 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser_PN" " 179-TS026650BK100LCR "
+			(at 256.54 261.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11173,15 +11173,6 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/ECS/ECS-80-12-33Q-GN-TR?qs=GedFDFLaBXGpGt2XdH6nFA%3D%3D"
-			(at 40.64 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "S1PL" ""
 			(at 40.64 256.54 0)
 			(effects
@@ -11192,6 +11183,15 @@
 			)
 		)
 		(property "S1SN" ""
+			(at 40.64 256.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser_PN" " 520-80-12-33Q-GN-TR "
 			(at 40.64 256.54 0)
 			(effects
 				(font
@@ -11293,7 +11293,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL31B475KBHNFNE?qs=X6jEic%2FHinDSpHHigcaxmQ%3D%3D"
+		(property "Mouser_PN" " 187-CL31B475KBHNFNE "
 			(at 217.17 44.45 0)
 			(effects
 				(font
@@ -11372,15 +11372,6 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.tme.eu/en/details/xt30pw-f/dc-power-connectors/amass/"
-			(at 144.78 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "S1PL" ""
 			(at 144.78 209.55 0)
 			(effects
@@ -11409,6 +11400,15 @@
 			)
 		)
 		(property "MPN" "XT30PW-F"
+			(at 144.78 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser_PN" "(Endal olemas)"
 			(at 144.78 209.55 0)
 			(effects
 				(font
@@ -11504,7 +11504,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL21B105KBFNNNE?qs=yOVawPpwOwmddQEBPU6Y9A%3D%3D"
+		(property "Mouser_PN" " 187-CL21B105KBFNNNE "
 			(at 118.11 172.72 0)
 			(effects
 				(font
@@ -11663,7 +11663,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Texas-Instruments/TSM24ADBZR?qs=HoCaDK9Nz5fNggfsWnlsEA%3D%3D"
+		(property "Mouser_PN" " 595-TSM24ADBZR "
 			(at 134.62 95.25 0)
 			(effects
 				(font
@@ -12069,7 +12069,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Vishay/CRCW06031K00FKEE?qs=sGAEpiMZZMtlubZbdhIBIKbhzOdzan%2FGqORHy1h5in0%3D"
+		(property "Mouser_PN" " 71-CRCW06031K00FKEE "
 			(at 85.09 228.6 90)
 			(effects
 				(font
@@ -12229,7 +12229,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/YAGEO/AF0603FR-0710KL?qs=sGAEpiMZZMtlubZbdhIBIKQHD%252BnCQfl0v3IZ62eMemQ%3D"
+		(property "Mouser_PN" " 603-AF0603FR-0710KL %3D"
 			(at 229.87 54.61 90)
 			(effects
 				(font
@@ -12323,7 +12323,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/YAGEO/RT0603FRE1322K1L?qs=sGAEpiMZZMtlubZbdhIBILfBi%252BnuZs2%2FFbvGFnGMRgU%3D"
+		(property "Mouser_PN" " 603-RT0603FRE1322K1L "
 			(at 154.94 52.07 90)
 			(effects
 				(font
@@ -12485,7 +12485,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/YAGEO/RC0603JR-074K7P?qs=sGAEpiMZZMtlubZbdhIBINt%2Ft6Hry3%2FBUetdOmotNnA%3D"
+		(property "Mouser_PN" " 603-RC0603JR-074K7P "
 			(at 228.6 154.94 90)
 			(effects
 				(font
@@ -12638,7 +12638,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Vishay-Draloric/RCA0603100KFKEC?qs=sGAEpiMZZMtlubZbdhIBICkZD26Dv0dBbtnIIS8h14I%3D"
+		(property "MFN" "Vishay / Draloric "
 			(at 143.51 173.99 90)
 			(effects
 				(font
@@ -12647,7 +12647,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFN" "Vishay / Draloric "
+		(property "Mouser_PN" " 71-RCA0603100KFKEC "
 			(at 143.51 173.99 90)
 			(effects
 				(font
@@ -12807,7 +12807,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Kamaya/RMC16K513FTP?qs=sGAEpiMZZMtlubZbdhIBIOD4JJV6Rved2HSSYoRFwmU%3D"
+		(property "Mouser_PN" " 791-RMC16K513FTP "
 			(at 154.94 60.96 90)
 			(effects
 				(font
@@ -13325,7 +13325,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL31B475KBHNFNE?qs=X6jEic%2FHinDSpHHigcaxmQ%3D%3D"
+		(property "Mouser_PN" " 187-CL31B475KBHNFNE "
 			(at 22.86 66.04 0)
 			(effects
 				(font
@@ -13511,7 +13511,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Panjit/PJQ4439EP-AU_R2_002A1?qs=1Kr7Jg1SGW8UbseYEJ2OgA%3D%3D"
+		(property "Mouser_PN" " 241-PJQ4439EP-AUR22A "
 			(at 227.33 97.79 90)
 			(effects
 				(font
@@ -13676,7 +13676,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Diodes-Incorporated/MBR230S1F-7?qs=5V6w%252Be2aIqaf4rGxjeeHeQ%3D%3D"
+		(property "Mouser_PN" " 621-MBR230S1F-7 "
 			(at 170.18 100.33 90)
 			(effects
 				(font
@@ -13800,7 +13800,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Comchip-Technology/SS8050-G?qs=LLUE9lz1YbcHg%252BWLMAtcrQ%3D%3D"
+		(property "Mouser_PN" " 750-SS8050-G "
 			(at 102.87 228.6 0)
 			(effects
 				(font
@@ -13897,7 +13897,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL10B104KC8NNNC?qs=%2FukktrhNKsY5bKXvqblW4Q%3D%3D"
+		(property "Mouser_PN" " 187-CL10B104KC8NNNC "
 			(at 248.92 261.62 0)
 			(effects
 				(font
@@ -13994,7 +13994,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL10C220JB8NNNC?qs=349EhDEZ59oibjgB6q8fqA%3D%3D"
+		(property "Mouser_PN" " 187-CL10C220JB8NNNC "
 			(at 46.99 261.62 0)
 			(effects
 				(font
@@ -14091,7 +14091,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL10B104KC8NNNC?qs=%2FukktrhNKsY5bKXvqblW4Q%3D%3D"
+		(property "Mouser_PN" " 187-CL10B104KC8NNNC "
 			(at 266.7 102.87 0)
 			(effects
 				(font
@@ -14185,7 +14185,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Vishay/CRCW06031K00FKEE?qs=sGAEpiMZZMtlubZbdhIBIKbhzOdzan%2FGqORHy1h5in0%3D"
+		(property "Mouser_PN" " 71-CRCW06031K00FKEE "
 			(at 232.41 133.35 0)
 			(effects
 				(font
@@ -14327,15 +14327,6 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Diodes-Incorporated/AP64060ZQWU-7?qs=savM97goi5j31AksU5P1Gg%3D%3D"
-			(at 118.11 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "S1PL" ""
 			(at 118.11 39.37 0)
 			(effects
@@ -14364,6 +14355,15 @@
 			)
 		)
 		(property "MPN" "AP64060ZQ"
+			(at 118.11 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser_PN" " 621-AP64060ZQWU-7 "
 			(at 118.11 39.37 0)
 			(effects
 				(font
@@ -14537,7 +14537,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/YAGEO/AF0603FR-0710KL?qs=sGAEpiMZZMtlubZbdhIBIKQHD%252BnCQfl0v3IZ62eMemQ%3D"
+		(property "Mouser_PN" " 603-AF0603FR-0710KL "
 			(at 259.08 134.62 90)
 			(effects
 				(font
@@ -14613,15 +14613,6 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/GCT/USB4085-GF-A?qs=KUoIvG%2F9Ilba1bQOahfWjw%3D%3D"
-			(at 109.22 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "S1PL" ""
 			(at 109.22 101.6 0)
 			(effects
@@ -14650,6 +14641,15 @@
 			)
 		)
 		(property "MPN" " USB4085-GF-A "
+			(at 109.22 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser_PN" " 640-USB4085-GF-A "
 			(at 109.22 101.6 0)
 			(effects
 				(font
@@ -14816,15 +14816,6 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Diodes-Incorporated/DMP4015SPSQ-13?qs=DBvH5xl4UymGq%252BG09rHkpA%3D%3D"
-			(at 229.87 41.91 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "S1PL" ""
 			(at 229.87 41.91 0)
 			(effects
@@ -14836,6 +14827,15 @@
 		)
 		(property "S1SN" ""
 			(at 229.87 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser_PN" " 621-DMP4015SPSQ-13 "
+			(at 229.87 41.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14934,7 +14934,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL10B103KB8NNNL?qs=349EhDEZ59rIWQLlrGQ20g%3D%3D"
+		(property "Mouser_PN" " 187-CL10B103KB8NNNL "
 			(at 64.77 34.29 0)
 			(effects
 				(font
@@ -15047,7 +15047,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Micro-Commercial-Components-MCC/B5819W-TP?qs=JeAkOuORR2UynazlTTFg%252BA%3D%3D"
+		(property "Mouser_PN" " 833-B5819W-TP "
 			(at 345.44 39.37 0)
 			(effects
 				(font
@@ -15144,7 +15144,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/YAGEO/RC0603JR-074K7P?qs=sGAEpiMZZMtlubZbdhIBINt%2Ft6Hry3%2FBUetdOmotNnA%3D"
+		(property "Mouser_PN" " 603-RC0603JR-074K7P "
 			(at 237.49 154.94 90)
 			(effects
 				(font
@@ -15304,7 +15304,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Kamaya/RMC1-16K22R0FTP?qs=sGAEpiMZZMtlubZbdhIBINZyO39%252BOXIfXmvmgM3dp0M%3D"
+		(property "Mouser_PN" " 791-RMC1/16K22R0FTP "
 			(at 130.81 110.49 0)
 			(effects
 				(font
@@ -15465,7 +15465,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Kamaya/RMC1-16K22R0FTP?qs=sGAEpiMZZMtlubZbdhIBINZyO39%252BOXIfXmvmgM3dp0M%3D"
+		(property "Mouser_PN" " 791-RMC1/16K22R0FTP "
 			(at 130.81 105.41 0)
 			(effects
 				(font
@@ -15562,7 +15562,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/YAGEO/AF0603FR-0710KL?qs=sGAEpiMZZMtlubZbdhIBIKQHD%252BnCQfl0v3IZ62eMemQ%3D"
+		(property "Mouser_PN" " 603-AF0603FR-0710KL "
 			(at 92.71 223.52 0)
 			(effects
 				(font
@@ -15726,7 +15726,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/YAGEO/AF0603FR-0710KL?qs=sGAEpiMZZMtlubZbdhIBIKQHD%252BnCQfl0v3IZ62eMemQ%3D"
+		(property "Mouser_PN" " 603-AF0603FR-0710KL %3D"
 			(at 227.33 176.53 90)
 			(effects
 				(font
@@ -15933,7 +15933,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL21B105KBFNNNE?qs=yOVawPpwOwmddQEBPU6Y9A%3D%3D"
+		(property "Mouser_PN" " 187-CL21B105KBFNNNE "
 			(at 170.18 110.49 0)
 			(effects
 				(font
@@ -16095,7 +16095,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL31B475KBHNFNE?qs=X6jEic%2FHinDSpHHigcaxmQ%3D%3D"
+		(property "Mouser_PN" " 187-CL31B475KBHNFNE "
 			(at 161.29 57.15 0)
 			(effects
 				(font
@@ -16258,7 +16258,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/YAGEO/RC0603JR-074K7P?qs=sGAEpiMZZMtlubZbdhIBINt%2Ft6Hry3%2FBUetdOmotNnA%3D"
+		(property "Mouser_PN" " 603-RC0603JR-074K7P "
 			(at 219.71 154.94 90)
 			(effects
 				(font
@@ -16448,7 +16448,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Infineon-Technologies/IRLR8726TRPBF?qs=Z8%252BeY1k3TILtKnGl5Klw5A%3D%3D"
+		(property "Mouser_PN" " 942-IRLR8726TRPBF "
 			(at 115.57 219.71 0)
 			(effects
 				(font
@@ -16723,7 +16723,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/YAGEO/RT0603FRE1322K1L?qs=sGAEpiMZZMtlubZbdhIBILfBi%252BnuZs2%2FFbvGFnGMRgU%3D"
+		(property "Mouser_PN" " 603-RT0603FRE1322K1L "
 			(at 227.33 118.11 90)
 			(effects
 				(font
@@ -17070,7 +17070,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Vishay-Draloric/RCA0603100KFKEC?qs=sGAEpiMZZMtlubZbdhIBICkZD26Dv0dBbtnIIS8h14I%3D"
+		(property "MFN" "Vishay / Draloric "
 			(at 241.3 102.87 90)
 			(effects
 				(font
@@ -17079,7 +17079,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFN" "Vishay / Draloric "
+		(property "Mouser_PN" " 71-RCA0603100KFKEC "
 			(at 241.3 102.87 90)
 			(effects
 				(font
@@ -17176,7 +17176,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Nichicon/UHW1V681MPD?qs=sGAEpiMZZMvwFf0viD3Y3dL55az7zhnmUur%252BfGEEbuUMBt2Eh5DR6Q%3D%3D"
+		(property "Mouser_PN" " 647-UHW1V681MPD "
 			(at 320.04 50.8 0)
 			(effects
 				(font
@@ -17273,7 +17273,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL10B104KC8NNNC?qs=%2FukktrhNKsY5bKXvqblW4Q%3D%3D"
+		(property "Mouser_PN" " 187-CL10B104KC8NNNC "
 			(at 60.96 66.04 0)
 			(effects
 				(font
@@ -17352,15 +17352,6 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/STMicroelectronics/STUSB4500QTR?qs=wUXugUrL1qyQbYMSzG1ujg%3D%3D"
-			(at 165.1 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "S1PL" ""
 			(at 165.1 124.46 0)
 			(effects
@@ -17389,6 +17380,15 @@
 			)
 		)
 		(property "MPN" " STUSB4500QTR "
+			(at 165.1 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser_PN" " 511-STUSB4500QTR "
 			(at 165.1 124.46 0)
 			(effects
 				(font
@@ -17551,7 +17551,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Vishay/CRCW06031K00FKEE?qs=sGAEpiMZZMtlubZbdhIBIKbhzOdzan%2FGqORHy1h5in0%3D"
+		(property "Mouser_PN" " 71-CRCW06031K00FKEE "
 			(at 160.02 114.3 90)
 			(effects
 				(font
@@ -17712,15 +17712,6 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Wurth-Elektronik/434133025816?qs=sPbYRqrBIVmKpJ9kaO4kMw%3D%3D"
-			(at 233.68 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "S1PL" ""
 			(at 233.68 210.82 0)
 			(effects
@@ -17731,6 +17722,15 @@
 			)
 		)
 		(property "S1SN" ""
+			(at 233.68 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser_PN" " 710-434133025816 "
 			(at 233.68 210.82 0)
 			(effects
 				(font
@@ -17852,7 +17852,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Panjit/PJQ4439EP-AU_R2_002A1?qs=1Kr7Jg1SGW8UbseYEJ2OgA%3D%3D"
+		(property "Mouser_PN" " 241-PJQ4439EP-AUR22A "
 			(at 254 97.79 90)
 			(effects
 				(font
@@ -17951,7 +17951,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL31B475KBHNFNE?qs=X6jEic%2FHinDSpHHigcaxmQ%3D%3D"
+		(property "Mouser_PN" " 187-CL31B475KBHNFNE "
 			(at 171.45 57.15 0)
 			(effects
 				(font
@@ -18030,15 +18030,6 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL21B105KBFNNNE?qs=yOVawPpwOwmddQEBPU6Y9A%3D%3D"
-			(at 52.07 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "S1PL" ""
 			(at 52.07 34.29 0)
 			(effects
@@ -18067,6 +18058,15 @@
 			)
 		)
 		(property "MPN" " CL21B105KBFNNNE "
+			(at 52.07 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser_PN" " 187-CL21B105KBFNNNE "
 			(at 52.07 34.29 0)
 			(effects
 				(font
@@ -18162,7 +18162,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "Aliexpress"
+		(property "Mouser_PN" "(Endal olemas)"
 			(at 266.7 209.55 0)
 			(effects
 				(font
@@ -18262,7 +18262,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/YAGEO/RT0603FRE10100RL?qs=sGAEpiMZZMtlubZbdhIBIAA5Rg%252BBqQHDPWZddZiXKJw%3D"
+		(property "Mouser_PN" " 603-RT0603FRE10100RL "
 			(at 259.08 110.49 0)
 			(effects
 				(font
@@ -18359,7 +18359,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Nichicon/UHW1V681MPD?qs=sGAEpiMZZMvwFf0viD3Y3dL55az7zhnmUur%252BfGEEbuUMBt2Eh5DR6Q%3D%3D"
+		(property "Mouser_PN" " 647-UHW1V681MPD "
 			(at 304.8 50.8 0)
 			(effects
 				(font
@@ -18564,8 +18564,8 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL10B104KC8NNNC?qs=%2FukktrhNKsY5bKXvqblW4Q%3D%3D"
-			(at 214.63 215.9 0)
+		(property "Mouser_PN" " 187-CL10B104KC8NNNC "
+			(at 214.63 215.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18661,7 +18661,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Nichicon/UHW1V681MPD?qs=sGAEpiMZZMvwFf0viD3Y3dL55az7zhnmUur%252BfGEEbuUMBt2Eh5DR6Q%3D%3D"
+		(property "Mouser_PN" " 647-UHW1V681MPD "
 			(at 335.28 50.8 0)
 			(effects
 				(font
@@ -18957,7 +18957,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Vishay-Draloric/RCA0603100KFKEC?qs=sGAEpiMZZMtlubZbdhIBICkZD26Dv0dBbtnIIS8h14I%3D"
+		(property "Mouser_PN" " 71-RCA0603100KFKEC "
 			(at 154.94 176.53 90)
 			(effects
 				(font
@@ -19186,7 +19186,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL31B475KBHNFNE?qs=X6jEic%2FHinDSpHHigcaxmQ%3D%3D"
+		(property "Mouser_PN" " 187-CL31B475KBHNFNE "
 			(at 91.44 100.33 0)
 			(effects
 				(font
@@ -19607,7 +19607,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL10B104KC8NNNC?qs=%2FukktrhNKsY5bKXvqblW4Q%3D%3D"
+		(property "Mouser_PN" " 187-CL10B104KC8NNNC "
 			(at 210.82 261.62 0)
 			(effects
 				(font
@@ -19701,15 +19701,6 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Vishay-Dale/IHLP2525BDER8R2M01?qs=oGfY1tKavxxEMJeVghjQFQ%3D%3D"
-			(at 148.59 46.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "S1PL" ""
 			(at 148.59 46.99 0)
 			(effects
@@ -19721,6 +19712,15 @@
 		)
 		(property "S1SN" ""
 			(at 148.59 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser_PN" " 70-IHLP2525BDER8R2M1 "
+			(at 148.59 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19816,7 +19816,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL31B225KBHNNNE?qs=349EhDEZ59oNolj3jR402w%3D%3D"
+		(property "Mouser_PN" " 187-CL31B225KBHNNNE "
 			(at 100.33 49.53 0)
 			(effects
 				(font
@@ -19913,7 +19913,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/YAGEO/AF0603FR-0710KL?qs=sGAEpiMZZMtlubZbdhIBIKQHD%252BnCQfl0v3IZ62eMemQ%3D"
+		(property "Mouser_PN" " 603-AF0603FR-0710KL "
 			(at 217.17 205.74 0)
 			(effects
 				(font
@@ -20010,7 +20010,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/YAGEO/AF0603FR-0710KL?qs=sGAEpiMZZMtlubZbdhIBIKQHD%252BnCQfl0v3IZ62eMemQ%3D"
+		(property "Mouser_PN" " 603-AF0603FR-0710KL "
 			(at 218.44 247.65 0)
 			(effects
 				(font
@@ -20172,7 +20172,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/YAGEO/AF0603FR-0710KL?qs=sGAEpiMZZMtlubZbdhIBIKQHD%252BnCQfl0v3IZ62eMemQ%3D"
+		(property "Mouser_PN" " 603-AF0603FR-0710KL "
 			(at 256.54 247.65 0)
 			(effects
 				(font
@@ -20268,7 +20268,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL10C220JB8NNNC?qs=349EhDEZ59oibjgB6q8fqA%3D%3D"
+		(property "Mouser_PN" " 187-CL10C220JB8NNNC "
 			(at 34.29 261.62 0)
 			(effects
 				(font
@@ -20365,7 +20365,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Same-Sky/TS02-66-50-BK-100-LCR-D?qs=A6eO%252BMLsxmQ2%2FFf8jET%252BrA%3D%3D"
+		(property "Mouser_PN" " 179-TS026650BK100LCR "
 			(at 218.44 261.62 90)
 			(effects
 				(font
@@ -20460,7 +20460,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Amphenol-FCI/10129381-906004BLF?qs=0lQeLiL1qyZUu3tm%252Bix%252B5A%3D%3D"
+		(property "Mouser_PN" " 649-1012938190604BLF "
 			(at 39.37 214.63 0)
 			(effects
 				(font
@@ -20569,7 +20569,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL10B104KC8NNNC?qs=%2FukktrhNKsY5bKXvqblW4Q%3D%3D"
+		(property "Mouser_PN" " 187-CL10B104KC8NNNC "
 			(at 35.56 66.04 0)
 			(effects
 				(font
@@ -20731,7 +20731,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL10B104KC8NNNC?qs=%2FukktrhNKsY5bKXvqblW4Q%3D%3D"
+		(property "Mouser_PN" " 187-CL10B104KC8NNNC "
 			(at 48.26 66.04 0)
 			(effects
 				(font
@@ -20828,15 +20828,6 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Texas-Instruments/TSM24ADBZR?qs=HoCaDK9Nz5fNggfsWnlsEA%3D%3D"
-			(at 290.83 101.6 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "S1PL" ""
 			(at 290.83 101.6 0)
 			(effects
@@ -20848,6 +20839,15 @@
 		)
 		(property "S1SN" ""
 			(at 290.83 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser_PN" " 595-TSM24ADBZR "
+			(at 290.83 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20945,7 +20945,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL21B105KBFNNNE?qs=yOVawPpwOwmddQEBPU6Y9A%3D%3D"
+		(property "Mouser_PN" " 187-CL21B105KBFNNNE "
 			(at 97.79 172.72 0)
 			(effects
 				(font
@@ -21415,7 +21415,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL21B105KBFNNNE?qs=yOVawPpwOwmddQEBPU6Y9A%3D%3D"
+		(property "Mouser_PN" " 187-CL21B105KBFNNNE "
 			(at 107.95 172.72 0)
 			(effects
 				(font
@@ -21594,7 +21594,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Micro-Commercial-Components-MCC/B5819W-TP?qs=JeAkOuORR2UynazlTTFg%252BA%3D%3D"
+		(property "Mouser_PN" " 833-B5819W-TP "
 			(at 118.11 210.82 90)
 			(effects
 				(font
@@ -21754,7 +21754,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/YAGEO/RT0603FRE1322K1L?qs=sGAEpiMZZMtlubZbdhIBILfBi%252BnuZs2%2FFbvGFnGMRgU%3D"
+		(property "Mouser_PN" " 603-RT0603FRE1322K1L "
 			(at 355.6 45.72 90)
 			(effects
 				(font
@@ -21913,7 +21913,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Vishay/CRCW06031K00FKEE?qs=sGAEpiMZZMtlubZbdhIBIKbhzOdzan%2FGqORHy1h5in0%3D"
+		(property "Mouser_PN" " 71-CRCW06031K00FKEE "
 			(at 355.6 55.88 90)
 			(effects
 				(font
@@ -22007,7 +22007,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/YAGEO/AC0603JR-7W470RL?qs=sGAEpiMZZMtlubZbdhIBIJb0xrHjiCfzNPdqHYdc9b8%3D"
+		(property "Mouser_PN" " 603-AC0603JR-7W470RL "
 			(at 160.02 100.33 90)
 			(effects
 				(font
@@ -22170,7 +22170,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/YAGEO/AF0603FR-074K7L?qs=sGAEpiMZZMtlubZbdhIBIBzaOxYsMr15SZwfEH3%252BINg%3D"
+		(property "Mouser_PN" " 603-AF0603FR-074K7L "
 			(at 105.41 213.36 0)
 			(effects
 				(font
@@ -22264,7 +22264,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Samsung-Electro-Mechanics/CL10B104KC8NNNC?qs=%2FukktrhNKsY5bKXvqblW4Q%3D%3D"
+		(property "Mouser_PN" " 187-CL10B104KC8NNNC "
 			(at 138.43 41.91 90)
 			(effects
 				(font
@@ -22494,7 +22494,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/STMicroelectronics/STM32F103C6T7A?qs=SU4Xa%252BYHGQqu3yFVVzmi7g%3D%3D"
+		(property "Mouser_PN" " 511-STM32F103C6T7A "
 			(at 45.72 138.43 0)
 			(effects
 				(font
@@ -22795,7 +22795,7 @@
 				(hide yes)
 			)
 		)
-		(property "S1PN" "https://www.mouser.ee/ProductDetail/Nichicon/UHW1V681MPD?qs=sGAEpiMZZMvwFf0viD3Y3dL55az7zhnmUur%252BfGEEbuUMBt2Eh5DR6Q%3D%3D"
+		(property "Mouser_PN" " 647-UHW1V681MPD "
 			(at 289.56 50.8 0)
 			(effects
 				(font
