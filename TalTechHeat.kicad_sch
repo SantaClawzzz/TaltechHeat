@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "Reflow Plate")
-		(date "2026-01-05")
-		(rev "1.2")
+		(date "2026-01-10")
+		(rev "1.3")
 		(company "Taltech")
 		(comment 1 "Robin Madar")
 		(comment 2 "Taavi Salum")
@@ -6141,7 +6141,7 @@
 	)
 	(rectangle
 		(start 87.63 83.82)
-		(end 147.32 125.73)
+		(end 148.59 125.73)
 		(stroke
 			(width 0)
 			(type default)
@@ -6966,6 +6966,12 @@
 		(uuid "93663732-a47b-4ae5-847c-bab4f9e99632")
 	)
 	(junction
+		(at 125.73 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "93787d33-e149-44af-a2a9-ed421a7cee9f")
+	)
+	(junction
 		(at 304.8 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7406,6 +7412,16 @@
 			(type default)
 		)
 		(uuid "0ac48663-d79c-40c5-bdab-fa17b5ec65ac")
+	)
+	(wire
+		(pts
+			(xy 125.73 110.49) (xy 128.27 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cba4f0a-3d8c-43e6-9033-9e7636e2a4da")
 	)
 	(wire
 		(pts
@@ -7929,16 +7945,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 110.49) (xy 134.62 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "310f3298-7c93-444a-96af-86f718d5cd61")
-	)
-	(wire
-		(pts
 			(xy 139.7 214.63) (xy 139.7 212.09)
 		)
 		(stroke
@@ -8179,16 +8185,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 110.49) (xy 125.73 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "426a7666-6cdb-4421-85d9-a3e5666f36a5")
-	)
-	(wire
-		(pts
 			(xy 254 102.87) (xy 254 110.49)
 		)
 		(stroke
@@ -8279,7 +8275,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 105.41) (xy 125.73 105.41)
+			(xy 128.27 105.41) (xy 125.73 105.41)
 		)
 		(stroke
 			(width 0)
@@ -8326,6 +8322,16 @@
 			(type default)
 		)
 		(uuid "4f67ae75-8d48-4ca9-8266-72bba13bedc3")
+	)
+	(wire
+		(pts
+			(xy 125.73 111.76) (xy 125.73 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fc760c3-ea00-4f22-ad08-26287d362801")
 	)
 	(wire
 		(pts
@@ -9069,6 +9075,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 120.65) (xy 135.89 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e8f3a86-a42a-4098-be39-9cb98a1c035c")
+	)
+	(wire
+		(pts
 			(xy 27.94 107.95) (xy 30.48 107.95)
 		)
 		(stroke
@@ -9116,6 +9132,16 @@
 			(type default)
 		)
 		(uuid "8ff28b16-8e06-4289-8459-03b4999d2941")
+	)
+	(wire
+		(pts
+			(xy 144.78 120.65) (xy 143.51 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90202635-4d11-4c63-8214-c5b2fcafbc77")
 	)
 	(wire
 		(pts
@@ -9639,16 +9665,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 110.49) (xy 127 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bf830aa8-a6ac-4a41-bfc6-2c406dd55294")
-	)
-	(wire
-		(pts
 			(xy 63.5 125.73) (xy 69.85 125.73)
 		)
 		(stroke
@@ -9676,6 +9692,16 @@
 			(type default)
 		)
 		(uuid "c54e4d1f-76a4-45d5-80b9-fb97555c01dc")
+	)
+	(wire
+		(pts
+			(xy 135.89 110.49) (xy 137.16 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5c51189-7c71-4c0d-a6e5-d1991ccb6615")
 	)
 	(wire
 		(pts
@@ -9889,7 +9915,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 105.41) (xy 134.62 105.41)
+			(xy 137.16 105.41) (xy 135.89 105.41)
 		)
 		(stroke
 			(width 0)
@@ -10096,6 +10122,16 @@
 			(type default)
 		)
 		(uuid "e7c57afb-7d91-46e7-96d3-64ea5ae1a5f8")
+	)
+	(wire
+		(pts
+			(xy 125.73 110.49) (xy 125.73 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e94071d6-ef1a-4238-ac9a-877f03533812")
 	)
 	(wire
 		(pts
@@ -10336,6 +10372,16 @@
 			(type default)
 		)
 		(uuid "f86c370a-9176-4819-b0da-cf141f391d55")
+	)
+	(wire
+		(pts
+			(xy 144.78 116.84) (xy 144.78 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fabb8dcf-3be8-4d54-a569-12a596e7054e")
 	)
 	(wire
 		(pts
@@ -15236,7 +15282,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Resistor")
-		(at 130.81 110.49 180)
+		(at 132.08 110.49 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15244,7 +15290,7 @@
 		(dnp no)
 		(uuid "59405bc3-38b5-44d4-9964-7f1124ec28a0")
 		(property "Reference" "R4"
-			(at 130.81 113.03 0)
+			(at 132.08 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15252,7 +15298,7 @@
 			)
 		)
 		(property "Value" "22R"
-			(at 130.81 115.57 0)
+			(at 132.08 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15260,7 +15306,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 130.81 108.712 0)
+			(at 132.08 108.712 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15269,7 +15315,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 130.81 110.49 90)
+			(at 132.08 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15278,7 +15324,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 130.81 110.49 0)
+			(at 132.08 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15287,7 +15333,7 @@
 			)
 		)
 		(property "MFN" "Kamaya "
-			(at 130.81 110.49 0)
+			(at 132.08 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15296,7 +15342,7 @@
 			)
 		)
 		(property "MPN" "RMC1/16K22R0FTP"
-			(at 130.81 110.49 0)
+			(at 132.08 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15305,7 +15351,7 @@
 			)
 		)
 		(property "Mouser_PN" " 791-RMC1/16K22R0FTP "
-			(at 130.81 110.49 0)
+			(at 132.08 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15397,7 +15443,7 @@
 	)
 	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Resistor")
-		(at 130.81 105.41 180)
+		(at 132.08 105.41 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15405,7 +15451,7 @@
 		(dnp no)
 		(uuid "5d094e8c-c3bf-4785-abbc-e45423e7bcec")
 		(property "Reference" "R3"
-			(at 130.81 100.33 0)
+			(at 132.08 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15413,7 +15459,7 @@
 			)
 		)
 		(property "Value" "22R"
-			(at 130.81 102.87 0)
+			(at 132.08 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15421,7 +15467,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 130.81 103.632 0)
+			(at 132.08 103.632 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15430,7 +15476,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 130.81 105.41 90)
+			(at 132.08 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15439,7 +15485,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 130.81 105.41 0)
+			(at 132.08 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15448,7 +15494,7 @@
 			)
 		)
 		(property "MFN" "Kamaya "
-			(at 130.81 105.41 0)
+			(at 132.08 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15457,7 +15503,7 @@
 			)
 		)
 		(property "MPN" " RMC1/16K22R0FTP "
-			(at 130.81 105.41 0)
+			(at 132.08 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15466,7 +15512,7 @@
 			)
 		)
 		(property "Mouser_PN" " 791-RMC1/16K22R0FTP "
-			(at 130.81 105.41 0)
+			(at 132.08 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17195,6 +17241,100 @@
 			(project "TalTechHeat"
 				(path "/4c054be9-cb84-4006-acf1-bf42cb44ba35"
 					(reference "C16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ScottoKeebs:Placeholder_Resistor")
+		(at 139.7 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "88bb04c5-637b-4ab2-9066-86af59bcdece")
+		(property "Reference" "R27"
+			(at 139.7 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 139.7 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 139.7 122.428 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.7 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 139.7 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFN" "Vishay "
+			(at 139.7 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW06031K00FKEE "
+			(at 139.7 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser_PN" " 71-CRCW06031K00FKEE "
+			(at 139.7 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "78e43d5d-f273-4142-8ec5-20ad195ec751")
+		)
+		(pin "2"
+			(uuid "863e4145-aa73-4627-a0ae-c38eca4bf23e")
+		)
+		(instances
+			(project "TalTechHeat"
+				(path "/4c054be9-cb84-4006-acf1-bf42cb44ba35"
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -19626,6 +19766,72 @@
 			(project "TalTechHeat"
 				(path "/4c054be9-cb84-4006-acf1-bf42cb44ba35"
 					(reference "C25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 144.78 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bf20570c-2ffd-4a66-bf9d-596fdb184bf8")
+		(property "Reference" "#PWR060"
+			(at 144.78 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 144.78 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 144.78 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 144.78 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "386d97d6-dc2f-4973-9378-7a76fc1818ae")
+		)
+		(instances
+			(project "TalTechHeat"
+				(path "/4c054be9-cb84-4006-acf1-bf42cb44ba35"
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
