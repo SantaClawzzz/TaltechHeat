@@ -6140,6 +6140,18 @@
 		(uuid 5ff312e7-bf14-482d-80e9-82624fe65563)
 	)
 	(rectangle
+		(start 283.21 193.04)
+		(end 327.66 247.65)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 8121be6e-aa70-4c7a-83c3-67f12af58529)
+	)
+	(rectangle
 		(start 87.63 83.82)
 		(end 148.59 125.73)
 		(stroke
@@ -6588,6 +6600,17 @@
 			(justify left bottom)
 		)
 		(uuid "dd0ce66e-9409-4fd9-a357-8d46f4f324a6")
+	)
+	(text "Temperature sensors\n"
+		(exclude_from_sim no)
+		(at 284.48 196.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ddb51528-157e-4597-9989-f1e75d54916c")
 	)
 	(text "Heatplate\n"
 		(exclude_from_sim no)
@@ -7160,10 +7183,6 @@
 		(uuid "15e8f8c6-1f97-45a4-b18d-83a729235f32")
 	)
 	(no_connect
-		(at 63.5 113.03)
-		(uuid "1bc9a157-5144-45ea-9c45-bba9a5cdef0e")
-	)
-	(no_connect
 		(at 214.63 152.4)
 		(uuid "1d5dc357-1379-443c-84a4-cd27e8599578")
 	)
@@ -7226,10 +7245,6 @@
 	(no_connect
 		(at 124.46 116.84)
 		(uuid "b06524b6-8cf3-4b51-9000-d1eba15d9561")
-	)
-	(no_connect
-		(at 63.5 115.57)
-		(uuid "b6d65f69-6797-4246-9762-21e1bd24f350")
 	)
 	(no_connect
 		(at 30.48 135.89)
@@ -7965,6 +7980,16 @@
 	)
 	(wire
 		(pts
+			(xy 295.91 223.52) (xy 306.07 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35ea0f2f-aa88-4441-a9bd-16840b7cfa37")
+	)
+	(wire
+		(pts
 			(xy 102.87 95.25) (xy 130.81 95.25)
 		)
 		(stroke
@@ -8002,6 +8027,16 @@
 			(type default)
 		)
 		(uuid "3a95aae9-b331-4e68-a6c1-e3da1c87ae56")
+	)
+	(wire
+		(pts
+			(xy 300.99 218.44) (xy 306.07 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ae67660-f112-4ce7-ba02-ea2b697bec72")
 	)
 	(wire
 		(pts
@@ -8655,6 +8690,16 @@
 	)
 	(wire
 		(pts
+			(xy 300.99 213.36) (xy 300.99 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c70471a-cdff-405b-8c97-7f1044f8d5ab")
+	)
+	(wire
+		(pts
 			(xy 238.76 115.57) (xy 238.76 133.35)
 		)
 		(stroke
@@ -9125,6 +9170,16 @@
 	)
 	(wire
 		(pts
+			(xy 295.91 220.98) (xy 306.07 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95e6fbfe-abf1-4405-ac9a-857f8cb0a8b2")
+	)
+	(wire
+		(pts
 			(xy 34.29 256.54) (xy 36.83 256.54)
 		)
 		(stroke
@@ -9252,6 +9307,16 @@
 			(type default)
 		)
 		(uuid "a0266f12-b15e-45a0-98af-52eb1adf3c57")
+	)
+	(wire
+		(pts
+			(xy 63.5 115.57) (xy 69.85 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0399597-ea76-46a4-a507-13c3da445d6b")
 	)
 	(wire
 		(pts
@@ -9725,6 +9790,16 @@
 	)
 	(wire
 		(pts
+			(xy 300.99 231.14) (xy 300.99 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca3ec7b7-2c07-4ef0-b86b-5f3dbc0a3f65")
+	)
+	(wire
+		(pts
 			(xy 34.29 266.7) (xy 40.64 266.7)
 		)
 		(stroke
@@ -9905,6 +9980,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 113.03) (xy 69.85 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d740c041-ce57-4f70-ab2c-e3d128fee03d")
+	)
+	(wire
+		(pts
 			(xy 256.54 254) (xy 256.54 256.54)
 		)
 		(stroke
@@ -9922,6 +10007,16 @@
 			(type default)
 		)
 		(uuid "d9ed2423-a85e-431a-8266-075fd0e4ae63")
+	)
+	(wire
+		(pts
+			(xy 300.99 226.06) (xy 306.07 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da737a14-f16f-4569-aa78-a3c81b522539")
 	)
 	(wire
 		(pts
@@ -10463,6 +10558,16 @@
 		)
 		(uuid "134fbf9e-ba1b-4cf6-bd7b-72f9f1a9e802")
 	)
+	(label "TEMP_1"
+		(at 295.91 220.98 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "179f508c-3838-420f-a183-b30bbfcacdf5")
+	)
 	(label "PD_ATTACH"
 		(at 27.94 168.91 180)
 		(effects
@@ -10663,6 +10768,16 @@
 		)
 		(uuid "85a6ad22-a494-4221-b2f8-f80a74612a4e")
 	)
+	(label "TEMP_2"
+		(at 69.85 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "92690b2f-f6f7-475e-ac54-7b054d818f2b")
+	)
 	(label "PD_RST"
 		(at 245.11 171.45 0)
 		(effects
@@ -10713,6 +10828,16 @@
 		)
 		(uuid "a0ae2c8a-f332-44a0-a2a5-b74b64f16698")
 	)
+	(label "TEMP_2"
+		(at 295.91 223.52 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ab48cbc8-a4ac-4eed-9f23-8f47721dee63")
+	)
 	(label "D_N"
 		(at 137.16 105.41 0)
 		(effects
@@ -10742,6 +10867,16 @@
 			(justify left bottom)
 		)
 		(uuid "ae25bf0c-bc6c-48f6-957e-16cbcf63b935")
+	)
+	(label "TEMP_1"
+		(at 69.85 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b25b6fc1-c367-4596-9859-97487ec4aecb")
 	)
 	(label "CC1"
 		(at 130.81 138.43 180)
@@ -11731,6 +11866,82 @@
 			(project "TalTechHeat"
 				(path "/4c054be9-cb84-4006-acf1-bf42cb44ba35"
 					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 311.15 220.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "14c00f76-cff9-44fc-ba0d-db4c1a407396")
+		(property "Reference" "J4"
+			(at 313.69 220.9799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x04"
+			(at 313.69 223.5199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical"
+			(at 311.15 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 311.15 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 311.15 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "b786dc03-0069-466b-b0e5-f555017e959f")
+		)
+		(pin "4"
+			(uuid "f700a67f-fc16-46b0-a065-8c6fa2de63db")
+		)
+		(pin "2"
+			(uuid "1074817d-659a-4815-aad0-654de685a350")
+		)
+		(pin "1"
+			(uuid "236c4f96-6e6b-422f-96d0-de4bf9291b21")
+		)
+		(instances
+			(project ""
+				(path "/4c054be9-cb84-4006-acf1-bf42cb44ba35"
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -13323,6 +13534,71 @@
 			(project "TalTechHeat"
 				(path "/4c054be9-cb84-4006-acf1-bf42cb44ba35"
 					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 300.99 231.14 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3c2bd6d7-7316-4dab-a107-acd0175b7314")
+		(property "Reference" "#PWR016"
+			(at 300.99 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 300.99 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 300.99 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 300.99 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 300.99 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "44e1b295-8ff8-4302-a24b-f20048225121")
+		)
+		(instances
+			(project "TalTechHeat"
+				(path "/4c054be9-cb84-4006-acf1-bf42cb44ba35"
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -20661,6 +20937,73 @@
 			(project "TalTechHeat"
 				(path "/4c054be9-cb84-4006-acf1-bf42cb44ba35"
 					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 300.99 213.36 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cbd0544a-6b53-4b2b-83f2-3b87963f8fb7")
+		(property "Reference" "#PWR015"
+			(at 300.99 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 300.99 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 300.99 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 300.99 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 300.99 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fbe7731e-8bbb-4a80-a07c-430ab8eb74ef")
+		)
+		(instances
+			(project "TalTechHeat"
+				(path "/4c054be9-cb84-4006-acf1-bf42cb44ba35"
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)

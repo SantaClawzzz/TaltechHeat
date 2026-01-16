@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","MPN","Mouser_PN","MFN"
+"C1,C2","2","100nF","","","","CL10B104KC8NNNC "," 187-CL10B104KC8NNNC ","Samsung Electro-Mechanics "
+"R1,R2","2","150R","","",""," RC0603FR-10150RL "," 603-RC0603FR-10150RL ","YAGEO"
+"J1,J2","2","Conn_01x02,Conn_01x04","","","","","",""
+"TH1","1","Thermistor_NTC","","",""," SM102B1K "," 803-SM102B1K ","Littlefuse"
+"TH2","1","Thermistor_NTC","","","","SM102B1K "," 803-SM102B1K ","Littlefuse"
