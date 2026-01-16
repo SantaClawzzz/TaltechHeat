@@ -9,8 +9,8 @@
 	(paper "A4")
 	(title_block
 		(title "Reflow plate")
-		(date "2026-01-10")
-		(rev "1.3")
+		(date "2026-01-16")
+		(rev "1.4")
 		(company "Taltech")
 		(comment 1 "Robin Madar")
 		(comment 2 "Taavi Salum")
@@ -22510,7 +22510,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Rev 1.3/\n"
+	(gr_text "Rev 1.4/\n"
 		(at 235.27 114.58 0)
 		(layer "F.SilkS")
 		(uuid "5763c71c-363c-4b70-8fe8-2588545a566d")
@@ -22523,7 +22523,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "05.01.2025"
+	(gr_text "16.01.2026"
 		(at 242.16 114.59 0)
 		(layer "F.SilkS")
 		(uuid "a1440fd2-32f1-4afe-a67b-dc9daaad822b")
