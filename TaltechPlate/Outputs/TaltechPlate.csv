@@ -3,5 +3,6 @@
 "R1,R2","2","150R","","",""," RC0603FR-10150RL "," 603-RC0603FR-10150RL ","YAGEO"
 "J1","1","Conn_01x02","","","","XT-30","",""
 "J2","1","Conn_01x04","","",""," B4B-PH-K-S(LF)(SN) "," 306-B4BPHKSLFSNPP ","JST Commercial "
+"H1,H2,H3,H4","4","Mounting hole","","","","","",""
 "TH1","1","Thermistor_NTC","","",""," SM102B1K "," 803-SM102B1K ","Littlefuse"
 "TH2","1","Thermistor_NTC","","","","SM102B1K "," 803-SM102B1K ","Littlefuse"
