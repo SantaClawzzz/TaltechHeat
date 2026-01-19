@@ -5,6 +5,76 @@
 	(uuid "86b912a6-4a96-4cab-a948-02bb6a393b86")
 	(paper "A4")
 	(lib_symbols
+		(symbol "AA:Mechanical Part"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 1.778 1.016 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Mechanical Part_1_1"
+				(rectangle
+					(start 0 0)
+					(end 3.81 -3.175)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(text "MP\n"
+					(at 2.032 -1.524 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector_Generic:Conn_01x02"
 			(pin_names
 				(offset 1.016)
@@ -1101,8 +1171,8 @@
 		(uuid 05c328e8-6207-479c-906d-71dd5035b346)
 	)
 	(rectangle
-		(start 142.24 73.66)
-		(end 190.5 99.06)
+		(start 194.31 73.66)
+		(end 219.71 99.06)
 		(stroke
 			(width 0)
 			(type default)
@@ -1124,6 +1194,28 @@
 		)
 		(uuid d530a6ef-8ed4-4191-ac9d-17f497dc059c)
 	)
+	(rectangle
+		(start 142.24 73.66)
+		(end 190.5 99.06)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid d5ab554c-fe93-40c9-9fb1-2189de9fed65)
+	)
+	(text "Mounting holes\n"
+		(exclude_from_sim no)
+		(at 152.4 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "769b68d2-bef2-4255-8d10-ea3dc31843fb")
+	)
 	(text "Logic Connector\n"
 		(exclude_from_sim no)
 		(at 152.4 31.75 0)
@@ -1136,7 +1228,7 @@
 	)
 	(text "Power Connector\n"
 		(exclude_from_sim no)
-		(at 152.4 77.47 0)
+		(at 204.47 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1436,7 +1528,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 88.9) (xy 163.83 91.44)
+			(xy 199.39 87.63) (xy 199.39 90.17)
 		)
 		(stroke
 			(width 0)
@@ -2098,6 +2190,198 @@
 		)
 	)
 	(symbol
+		(lib_id "AA:Mechanical Part")
+		(at 146.05 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "789ac6da-ab94-4d5b-9ae9-52db359c2fef")
+		(property "Reference" "H2"
+			(at 151.13 91.7574 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Mounting hole"
+			(at 151.13 94.2974 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965"
+			(at 146.05 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 146.05 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "TaltechPlate"
+				(path "/86b912a6-4a96-4cab-a948-02bb6a393b86"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AA:Mechanical Part")
+		(at 167.64 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8646f5f8-fdbe-4e71-983d-c2c6c750f12f")
+		(property "Reference" "H3"
+			(at 172.72 84.1374 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Mounting hole"
+			(at 172.72 86.6774 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965"
+			(at 167.64 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "TaltechPlate"
+				(path "/86b912a6-4a96-4cab-a948-02bb6a393b86"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AA:Mechanical Part")
+		(at 146.05 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8a99254c-ee50-484e-8cb2-c2316a72032f")
+		(property "Reference" "H1"
+			(at 151.13 84.1374 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Mounting hole"
+			(at 151.13 86.6774 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965"
+			(at 146.05 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 146.05 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/86b912a6-4a96-4cab-a948-02bb6a393b86"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 163.83 40.64 0)
 		(unit 1)
@@ -2360,6 +2644,70 @@
 		)
 	)
 	(symbol
+		(lib_id "AA:Mechanical Part")
+		(at 167.64 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bef7da81-738e-44b2-b7e3-46bc22e30921")
+		(property "Reference" "H4"
+			(at 172.72 91.7574 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Mounting hole"
+			(at 172.72 94.2974 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965"
+			(at 167.64 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "TaltechPlate"
+				(path "/86b912a6-4a96-4cab-a948-02bb6a393b86"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 99.06 66.04 0)
 		(unit 1)
@@ -2541,7 +2889,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 168.91 88.9 0)
+		(at 204.47 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2550,7 +2898,7 @@
 		(fields_autoplaced yes)
 		(uuid "e3d79f2e-b3fb-4991-aef5-ec48de528100")
 		(property "Reference" "J1"
-			(at 171.45 88.8999 0)
+			(at 207.01 87.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2559,7 +2907,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 171.45 91.4399 0)
+			(at 207.01 90.1699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2568,7 +2916,7 @@
 			)
 		)
 		(property "Footprint" "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical"
-			(at 168.91 88.9 0)
+			(at 204.47 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2577,7 +2925,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 168.91 88.9 0)
+			(at 204.47 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2586,7 +2934,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 168.91 88.9 0)
+			(at 204.47 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2595,7 +2943,7 @@
 			)
 		)
 		(property "S1PN" ""
-			(at 168.91 88.9 0)
+			(at 204.47 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2604,7 +2952,7 @@
 			)
 		)
 		(property "S1PL" ""
-			(at 168.91 88.9 0)
+			(at 204.47 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2613,7 +2961,7 @@
 			)
 		)
 		(property "S1SN" ""
-			(at 168.91 88.9 0)
+			(at 204.47 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2622,7 +2970,7 @@
 			)
 		)
 		(property "MFN" ""
-			(at 168.91 88.9 0)
+			(at 204.47 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2631,7 +2979,7 @@
 			)
 		)
 		(property "MPN" "XT-30"
-			(at 168.91 88.9 0)
+			(at 204.47 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
