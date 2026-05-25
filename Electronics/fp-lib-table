@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "AA") (type "KiCad") (uri "C:/Users/RobinMadar/OneDrive - Krakul OÜ/Documents/KiCad/10.0/AA/AA.pretty") (options "") (descr ""))
+	(lib (name "PD_FET") (type "KiCad") (uri "${KIPRJMOD}/Components/PD_FET.pretty") (options "") (descr ""))
+)
